@@ -25,3 +25,12 @@ We are given two tables:
   
   The rows should be ordered by increasing **id** of candidate.
   
+Example result:
+
++-----+--------+-----------+
+|  id |   name | companies |
++-----+--------+-----------+
+|  10 |   Lara |         2 |
+|  25 | Taylor |         0 |
+| 113 |   Paul |         1 |
++-----+--------+-----------+

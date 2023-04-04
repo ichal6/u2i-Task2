@@ -26,6 +26,7 @@ We are given two tables:
   The rows should be ordered by increasing **id** of candidate.
   
 Example result:
+<!-- language: lang-none -->
 
 +-----+--------+-----------+
 |  id |   name | companies |

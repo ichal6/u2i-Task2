@@ -24,14 +24,3 @@ We are given two tables:
   - **company**  (number of distinct companies the candidate applied to). 
   
   The rows should be ordered by increasing **id** of candidate.
-  
-Example result:
-<!-- language: lang-none -->
-
-+-----+--------+-----------+
-|  id |   name | companies |
-+-----+--------+-----------+
-|  10 |   Lara |         2 |
-|  25 | Taylor |         0 |
-| 113 |   Paul |         1 |
-+-----+--------+-----------+
